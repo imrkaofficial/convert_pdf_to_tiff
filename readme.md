@@ -35,6 +35,7 @@ This project provides a web application built with Flask that allows users to up
     ```sh
     pip install -r requirements.txt
 
+
 4. Install Poppler (required for pdf2image):
 - macos
     ```sh
@@ -43,7 +44,6 @@ This project provides a web application built with Flask that allows users to up
 - Ubuntu/Debian:
     ```sh
     sudo apt-get install poppler-utils
-
 
 
 ## Usage
